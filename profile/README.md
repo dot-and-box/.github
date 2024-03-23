@@ -7,4 +7,4 @@ visualise some algorithms or your raw ideas e.g. show event flow in a distribute
 
 [Documentation](https://dot-and-box.github.io/dot-and-box/)
 
-[Editor](https://dot-and-box.github.io/dot-and-box-editor/)
+[Editor](https://github.com/dot-and-box/dot-and-box-editor)
